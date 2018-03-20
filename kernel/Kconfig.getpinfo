@@ -1,0 +1,5 @@
+config GETPINFO
+        bool "prints information about the process"
+        default y
+        help
+                This will print the following info about the process
